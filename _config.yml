@@ -1,0 +1,23 @@
+# Site wide configuration
+
+title: Biafra Ahanonu, PhD
+locale: en_US
+logo: logo.png
+
+# Platform usernames for website
+owner:
+  name: Biafra Ahanonu
+  # avatar: NaN
+  bio: "Pain neuroscience researcher"
+  # email: NaN
+  twitter: syscarut
+  linkedin: bahanonu
+  github: bahanonu
+  orcid: 0000-0002-2021-5848
+  researchgate: Biafra-Ahanonu
+  # mendeley: #BLANK
+  google:
+    plus: #BLANK
+    analytics: #BLANK
+    verify: #BLANK
+    scholar: 1ddfA3sAAAAJ

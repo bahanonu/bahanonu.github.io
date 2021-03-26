@@ -1,3 +1,3 @@
 # Biafra Ahanonu
 
-Please visit http://bahanonu.com for more.
+To find out more, please visit http://bahanonu.com.
